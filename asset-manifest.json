@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//:mtminhthuan0911.github.io/Form/static/css/main.655dae03.chunk.css",
+    "main.js": "/https//:mtminhthuan0911.github.io/Form/static/js/main.e3dd1dee.chunk.js",
+    "main.js.map": "/https//:mtminhthuan0911.github.io/Form/static/js/main.e3dd1dee.chunk.js.map",
+    "runtime-main.js": "/https//:mtminhthuan0911.github.io/Form/static/js/runtime-main.6504a61d.js",
+    "runtime-main.js.map": "/https//:mtminhthuan0911.github.io/Form/static/js/runtime-main.6504a61d.js.map",
+    "static/js/2.e38135e5.chunk.js": "/https//:mtminhthuan0911.github.io/Form/static/js/2.e38135e5.chunk.js",
+    "static/js/2.e38135e5.chunk.js.map": "/https//:mtminhthuan0911.github.io/Form/static/js/2.e38135e5.chunk.js.map",
+    "static/js/3.b214ea89.chunk.js": "/https//:mtminhthuan0911.github.io/Form/static/js/3.b214ea89.chunk.js",
+    "static/js/3.b214ea89.chunk.js.map": "/https//:mtminhthuan0911.github.io/Form/static/js/3.b214ea89.chunk.js.map",
+    "index.html": "/https//:mtminhthuan0911.github.io/Form/index.html",
+    "static/css/main.655dae03.chunk.css.map": "/https//:mtminhthuan0911.github.io/Form/static/css/main.655dae03.chunk.css.map",
+    "static/js/2.e38135e5.chunk.js.LICENSE.txt": "/https//:mtminhthuan0911.github.io/Form/static/js/2.e38135e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6504a61d.js",
+    "static/js/2.e38135e5.chunk.js",
+    "static/css/main.655dae03.chunk.css",
+    "static/js/main.e3dd1dee.chunk.js"
+  ]
+}
